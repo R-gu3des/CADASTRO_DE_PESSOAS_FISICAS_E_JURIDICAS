@@ -1,0 +1,18 @@
+-------- Pessoa Física ---------
+Nome ..........: ruan
+Nascimento ....: 22/05/2000
+CPF ...........: 21113645874
+Valor de Compra: R$ 54.860,00
+Imposto .......: R$ 5.486,00
+Total a Pagar : R$ 60.346,00
+Pagamento Confirmado: True
+
+-------- Pessoa Jurídica ---------
+Nome ..........: fafa
+CNPJ ..........: 13212346579854
+IE ............: 987654321
+Valor de Compra: R$ 564.897,00
+Imposto .......: R$ 112.979,40
+Total a Pagar : R$ 677.876,38
+Pagamento Confirmado: True
+

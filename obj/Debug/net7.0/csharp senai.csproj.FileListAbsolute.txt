@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\bin\Debug\net7.0\csharp senai.exe
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\bin\Debug\net7.0\csharp senai.deps.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\bin\Debug\net7.0\csharp senai.runtimeconfig.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\bin\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\bin\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.AssemblyInfo.cs
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\refint\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\csharp senai.genruntimeconfig.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai\obj\Debug\net7.0\ref\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\bin\Debug\net7.0\csharp senai.exe
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\bin\Debug\net7.0\csharp senai.deps.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\bin\Debug\net7.0\csharp senai.runtimeconfig.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\bin\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\bin\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.AssemblyInfo.cs
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\refint\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\csharp senai.genruntimeconfig.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\csharp senai - 2\obj\Debug\net7.0\ref\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\bin\Debug\net7.0\csharp senai.exe
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\bin\Debug\net7.0\csharp senai.deps.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\bin\Debug\net7.0\csharp senai.runtimeconfig.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\bin\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\bin\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.AssemblyInfo.cs
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\refint\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\csharp senai.genruntimeconfig.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\CSHARP - CADSTRO DE PESSOAS FÍSICAS E JURÍDICAS\obj\Debug\net7.0\ref\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\bin\Debug\net7.0\csharp senai.exe
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\bin\Debug\net7.0\csharp senai.deps.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\bin\Debug\net7.0\csharp senai.runtimeconfig.json
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\bin\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\bin\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.AssemblyInfo.cs
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\refint\csharp senai.dll
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.pdb
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\csharp senai.genruntimeconfig.cache
+C:\Users\user\Desktop\Besteiras da área de trabalho\Cadastro de Pessoas fisicas e juridicas - SENAI\obj\Debug\net7.0\ref\csharp senai.dll
